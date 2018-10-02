@@ -13,6 +13,7 @@ export const AlgorithmNames = {
     Sha384: "SHA-384",
     Sha512: "SHA-512",
     EcDSA: "ECDSA",
+    EdDSA: "EDDSA",
     EcDH: "ECDH",
     Hmac: "HMAC",
     Pbkdf2: "PBKDF2",
